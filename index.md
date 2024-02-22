@@ -11,6 +11,7 @@ With a keen eye for quantitative analysis, Abhiram integrates his programming sk
 
 ## Projects
 
+
 ***Home Default Risk***
 
 Many people struggle to get loans due to insufficient or non-existent credit histories. Unfortunately, this population is often taken advantage of by untrustworthy lenders. Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. To ensure this underserved population has a favorable loan experience, Home Credit uses various alternative data--including telco and transactional information--to predict their clients' repayment abilities.
