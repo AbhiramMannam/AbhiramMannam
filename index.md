@@ -13,3 +13,12 @@ These notebooks will examine the Home Credit default risk Exploration Data Analy
 
 ***[![](https://img.shields.io/badge/View_On_GitHub-blue?logo=GitHub)](https://github.com/AbhiramMannam/Capstone-Home-Credit-Default)***
 
+
+
+***Iowa Home Price Prediction***
+
+Every home buyer needs to buy their dream house, but estimating the cost of the house is difficult. So, this model will estimate the price of the house using the variables (predictors) from the house. 
+
+This project aims to bridge that gap by developing a model that estimates house prices in Ames, Iowa, using readily available information about the houses themselves. The main aim of this project is to predict the house prices in Ames, Iowa, with the given variables (predictors) and predict the SalePrice (Target Variable). We start with the data collection from the Kaggle and clean and Explore the data as part of Exploratory Data Analysis (EDA). Later, we define the statistical machine-learning model linear regression to predict the prices of houses in Ames, Iowa.
+
+***[![](https://img.shields.io/badge/View_On_GitHub-blue?logo=GitHub)](https://github.com/AbhiramMannam/Iowa---Home-Price-Prediction/tree/main)***
