@@ -8,7 +8,6 @@ With a keen eye for quantitative analysis, Abhiram integrates his programming sk
 
 # Portfolio
 
-
 ## Projects
 
 ***Home Default Risk***
