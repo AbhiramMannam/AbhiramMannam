@@ -4,7 +4,7 @@ Abhiram Mannam is a dynamic data scientist and financial analyst with a strong f
 
 With a keen eye for quantitative analysis, Abhiram integrates his programming skills with advanced statistical techniques to extract valuable insights from complex datasets. In addition to his proficiency in data science, Abhiram possesses a keen interest in financial analysis, where he applies his analytical decisions to market trends, evaluate investment opportunities, and optimize financial strategies. His comprehensive skills in quantitative analysis enabled him to navigate the financial landscapes with precision and foresight.
 
-<img src="images/the-university-of-utah1230.jpg?raw=true"/>
+<img src="images/the-university-of-utah1230.jpeg?raw=true"/>
 ---
 
 # Portfolio
