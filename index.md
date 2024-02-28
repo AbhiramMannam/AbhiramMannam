@@ -5,7 +5,7 @@ Abhiram Mannam is a dynamic data scientist and financial analyst with a strong f
 With a keen eye for quantitative analysis, Abhiram integrates his programming skills with advanced statistical techniques to extract valuable insights from complex datasets. In addition to his proficiency in data science, Abhiram possesses a keen interest in financial analysis, where he applies his analytical decisions to market trends, evaluate investment opportunities, and optimize financial strategies. His comprehensive skills in quantitative analysis enabled him to navigate the financial landscapes with precision and foresight.
 
 <img src="images/the-university-of-utah1230.jpeg?raw=true"/>
----
+
 
 # Portfolio
 
@@ -17,10 +17,10 @@ Swire Coca-Cola, USA, is responsible for producing, selling, and distributing Co
 
 The notebooks examine the regular products that closely resemble the specified innovative products and forecast sales by leveraging the sales data of these similar products. Determine the most relevant similar products based on factors such as brand, market category, manufacturer, package type, and/or flavor, matching the specifications of the specified innovative products. Analyze the weekly sales figures of these similar products. Aggregate the sales data of these products to predict the sales of the innovative products.
 
-![image](https://github.com/AbhiramMannam/AbhiramMannam/assets/51951645/7ae05aed-6099-4b2e-819c-4b36d3f8fd33)
 
 ***[![](https://img.shields.io/badge/View_On_GitHub-blue?logo=GitHub)]([https://github.com/AbhiramMannam/Swire-Coca-Cola-Forecast)])***
 
+---
 
 ***Home Default Risk***
 
@@ -31,7 +31,7 @@ These notebooks examine the Home Credit default risk Exploration Data Analysis w
 
 ***[![](https://img.shields.io/badge/View_On_GitHub-blue?logo=GitHub)](https://github.com/AbhiramMannam/Capstone-Home-Credit-Default)***
 
-
+---
 
 ***Iowa Home Price Prediction***
 
