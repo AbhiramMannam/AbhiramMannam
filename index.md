@@ -18,7 +18,7 @@ Swire Coca-Cola, USA, is responsible for producing, selling, and distributing Co
 The notebooks examine the regular products that closely resemble the specified innovative products and forecast sales by leveraging the sales data of these similar products. Determine the most relevant similar products based on factors such as brand, market category, manufacturer, package type, and/or flavor, matching the specifications of the specified innovative products. Analyze the weekly sales figures of these similar products. Aggregate the sales data of these products to predict the sales of the innovative products.
 
 
-***[![](https://img.shields.io/badge/View_On_GitHub-blue?logo=GitHub)]([https://github.com/AbhiramMannam/Swire-Coca-Cola-Forecast)])***
+***[![](https://img.shields.io/badge/View_On_GitHub-blue?logo=GitHub)](https://github.com/AbhiramMannam/Swire-Coca-Cola-Forecast)***
 
 ---
 
