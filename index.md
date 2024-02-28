@@ -45,27 +45,35 @@ This project aims to bridge that gap by developing a model that estimates house 
 ## Work Experience
 
 ***University of Utah	Salt Lake City, UT***
+
 Career Success Intern, Data Analyst	                                                                               June 2023 – Present
+
 •	Conducted in-depth analysis of university career statistics, translating raw data into actionable insights.
 •	Created interactive salesforce dashboards showcasing career statistics to students and faculty.
 •	Collaborated with a diverse team of 50+ students on a multifaceted project to facilitate informed career choices and academic planning through data analysis, marketing strategy development, and graphic design.
 
 ***David Eccles School of Business	Salt Lake City, UT***
+
 Teaching Assistant	                                                                                          August 2023 – December 2023
+
 •	Collaborated closely with the professor in developing lecture materials and practice exercises (Learn R + Statistics). 
 •	Managed many responsibilities, including grading assignments, quizzes, exams, and group projects, ensuring high accuracy and efficiency for more than 100 students.
 •	TA Courses: Introduction to Business Analytics, Statistics, and Predictive Analytics.
 
 ***Ernst and Young (EY)	Hyderabad, India***
-Advanced Analyst, Data Engineering	                                                                           June 2022 – December 2022
+
+Advanced Analyst, Data Engineering	                                                                            June 2022 – December 2022
+
 •	Utilized Azure Data Factory and Azure Synapse Analytics to orchestrate data workflows, ensuring data integrity and accuracy.
 •	Developed a comprehensive Power BI dashboard by translating complex data into actionable insights, empowering clients with real-time access to critical business metrics.	
-Internship, Data Engineering	                                                                                 September 2021 – May 2022
+Internship, Data Engineering	                                                                                    September 2021 – May 2022
 •	Customized the Alteryx workflows to calculate the tax amount, leading to the successful completion of financial calculations and resulting in a 35% increase in efficiency.
 •	Received the prestigious 'Best Intern' award during the EY GDS TAX-Internship Program 2022, recognizing exceptional contributions to financial-related projects.
 	
 ***Institut de Recherche en Systèmes Electroniques Embarqués (IRSEEM)	Rouen, France***
-Internship, IoT Design, and Data Analyst	                                                                     April 2019 – October 2019
+
+Internship, IoT Design, and Data Analyst	                                                                    April 2019 – October 2019
+
 •	Designed, tested, and optimized a circuit to capture, measure, and display RF energy on Arduino.
 •	Utilized A/B testing to analyze and evaluate RF energy data for different real-time periods, providing actionable insights.
 •	Implemented regression models to enhance the accuracy of RF energy measurements, resulting in improved data quality.
