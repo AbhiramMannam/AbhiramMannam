@@ -11,6 +11,16 @@ With a keen eye for quantitative analysis, Abhiram integrates his programming sk
 
 ## Projects
 
+***SWIRE - COCA COLA Forecasting***
+
+Swire Coca-Cola, USA, is responsible for producing, selling, and distributing Coca-Cola and various beverages across 13 states in the American West. The company is committed to continuously introducing innovative products into the market. Swire aims to enhance its production planning and management specifically for these products. The primary challenge requires accurately forecasting the demand to mitigate instances of out-of-stock and overproduction, thereby maximizing profits.
+
+The notebooks examine the regular products that closely resemble the specified innovative products and forecast sales by leveraging the sales data of these similar products. Determine the most relevant similar products based on factors such as brand, market category, manufacturer, package type, and/or flavor, matching the specifications of the specified innovative products. Analyze the weekly sales figures of these similar products. Aggregate the sales data of these products to predict the sales of the innovative products.
+
+![image](https://github.com/AbhiramMannam/AbhiramMannam/assets/51951645/7ae05aed-6099-4b2e-819c-4b36d3f8fd33)
+
+***[![](https://img.shields.io/badge/View_On_GitHub-blue?logo=GitHub)]([https://github.com/AbhiramMannam/Swire-Coca-Cola-Forecast)])***
+
 
 ***Home Default Risk***
 
