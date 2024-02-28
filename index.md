@@ -40,3 +40,33 @@ Every home buyer needs to buy their dream house, but estimating the cost of the 
 This project aims to bridge that gap by developing a model that estimates house prices in Ames, Iowa, using readily available information about the prices of houses themselves. The main aim of this project is to predict the house prices in Ames, Iowa, with the given variables (predictors) and predict the SalePrice (Target Variable). We start with the data collection from the Kaggle and clean and Explore the data as part of Exploratory Data Analysis (EDA). Later, we defined the statistical machine-learning model linear regression to predict the prices of houses in Ames, Iowa, which resulted in 0.9 accuracy.
 
 ***[![](https://img.shields.io/badge/View_On_GitHub-blue?logo=GitHub)](https://github.com/AbhiramMannam/Iowa---Home-Price-Prediction/tree/main)***
+
+
+## Work Experience
+
+***University of Utah	Salt Lake City, UT***
+Career Success Intern, Data Analyst	                                                                               June 2023 – Present
+•	Conducted in-depth analysis of university career statistics, translating raw data into actionable insights.
+•	Created interactive salesforce dashboards showcasing career statistics to students and faculty.
+•	Collaborated with a diverse team of 50+ students on a multifaceted project to facilitate informed career choices and academic planning through data analysis, marketing strategy development, and graphic design.
+
+***David Eccles School of Business	Salt Lake City, UT***
+Teaching Assistant	                                                                                          August 2023 – December 2023
+•	Collaborated closely with the professor in developing lecture materials and practice exercises (Learn R + Statistics). 
+•	Managed many responsibilities, including grading assignments, quizzes, exams, and group projects, ensuring high accuracy and efficiency for more than 100 students.
+•	TA Courses: Introduction to Business Analytics, Statistics, and Predictive Analytics.
+
+***Ernst and Young (EY)	Hyderabad, India***
+Advanced Analyst, Data Engineering	                                                                           June 2022 – December 2022
+•	Utilized Azure Data Factory and Azure Synapse Analytics to orchestrate data workflows, ensuring data integrity and accuracy.
+•	Developed a comprehensive Power BI dashboard by translating complex data into actionable insights, empowering clients with real-time access to critical business metrics.	
+Internship, Data Engineering	                                                                                 September 2021 – May 2022
+•	Customized the Alteryx workflows to calculate the tax amount, leading to the successful completion of financial calculations and resulting in a 35% increase in efficiency.
+•	Received the prestigious 'Best Intern' award during the EY GDS TAX-Internship Program 2022, recognizing exceptional contributions to financial-related projects.
+	
+***Institut de Recherche en Systèmes Electroniques Embarqués (IRSEEM)	Rouen, France***
+Internship, IoT Design, and Data Analyst	                                                                     April 2019 – October 2019
+•	Designed, tested, and optimized a circuit to capture, measure, and display RF energy on Arduino.
+•	Utilized A/B testing to analyze and evaluate RF energy data for different real-time periods, providing actionable insights.
+•	Implemented regression models to enhance the accuracy of RF energy measurements, resulting in improved data quality.
+
