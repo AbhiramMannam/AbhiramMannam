@@ -1,8 +1,12 @@
 # Summary
 
-Abhiram Mannam is a dynamic data scientist and financial analyst with a strong foundation in computer engineering and machine learning. His academic journey commenced with a computer engineering study, where he nurtured his skills in analytical thinking. Currently pursuing a Master of Science degree in Business Analytics at the esteemed David Eccles School of Business, University of Utah, Abhiram is expanding his expertise in leveraging data-driven insights to make informed business decisions.
+Abhiram Mannam is a skilled data and financial analyst pursuing a Master's in Business Analytics at the University of Utah. With a solid foundation in statistics, he adeptly integrates sophisticated programming and statistical techniques to extract insights from complex datasets.
 
-With a keen eye for quantitative analysis, Abhiram integrates his programming skills with advanced statistical techniques to extract valuable insights from complex datasets. In addition to his proficiency in data science, Abhiram possesses a keen interest in financial analysis, where he applies his analytical decisions to market trends, evaluate investment opportunities, and optimize financial strategies. His comprehensive skills in quantitative analysis enabled him to navigate the financial landscapes with precision and foresight.
+Abhiram's expertise in financial analysis includes evaluating market trends and optimizing investment strategies. His technical skills encompass data ingestion, ETL pipeline development, and proficiency in Python, R, SQL, and various data visualization tools. His notable contributions at Ernst and Young, where he led critical data engineering projects, highlight his ability to drive impactful business decisions through data.
+
+Additionally, Abhiram is keenly interested in machine learning, where he has effectively applied various predictive and forecasting models to generate insights. His academic and professional achievements illustrate his adeptness at navigating and optimizing complex business and financial landscapes through data-driven strategies.
+
+Recognized for his initiative and ability to work across different domains, Abhiram is committed to applying data science and analysis in practical settings. He is eager to explore further professional opportunities where he can contribute to impactful projects and continue his growth as a data professional. Please feel free to connect for collaborations and opportunities or to exchange ideas in data analytics.
 
 <img src="images/the-university-of-utah1230.jpeg?raw=true"/>
 
@@ -45,36 +49,29 @@ This project aims to bridge that gap by developing a model that estimates house 
 
 ***University of Utah, Salt Lake City, UT***
 
-Career Success Intern, Data Analyst										June 2023 – Present
+Career Success Intern, Data Analyst											June 2023 – Present
 
-Conducted in-depth analysis of university career statistics, translating raw data into actionable insights.
-Created interactive salesforce dashboards showcasing career statistics to students and faculty.
-Collaborated with a diverse team of 50+ students on a multifaceted project to facilitate informed career choices and academic planning through data analysis, marketing strategy development, and graphic design.
+- Conducted in-depth analysis of university career statistics by analyzing and designing interactive salesforce dashboards.
+- Collaborated with a diverse team of 50+ students on a multifaceted project to facilitate informed career choices and academic planning through data analysis, marketing strategy development, and graphic design.
 
 ***David Eccles School of Business, Salt Lake City, UT***
 
 Teaching Assistant												August 2023 – December 2023
 
-Collaborated closely with the professor in developing lecture materials and practice exercises (Learn R + Statistics). 
-Managed many responsibilities, including grading assignments, quizzes, exams, and group projects, ensuring high accuracy and efficiency for more than 100 students. TA Courses: Introduction to Business Analytics, Statistics, and Predictive Analytics.
+- Coordinated with the professor to develop lecture materials and practice exercises (Learn R + Statistics).
+- Managed boot camps and projects, significantly boosting the efficiency and engagement of over 100 students.
 
 ***Ernst and Young (EY), Hyderabad, India***
 
-Advanced Analyst, Data Engineering										June 2022 – December 2022
+Advanced Analyst, Data Engineering									      September 2021 – December 2022
 
-Utilized Azure Data Factory and Azure Synapse Analytics to orchestrate data workflows, ensuring data integrity and accuracy.
-Developed a comprehensive Power BI dashboard by translating complex data into actionable insights, empowering clients with real-time access to critical business metrics.	
+- Applied Azure Synapse Analytics & Data Factory tools to orchestrate data workflows, ensuring data integrity and accuracy.
+- Developed a comprehensive Power BI dashboard by translating complex data into actionable insights, empowering clients with real-time access to critical business metrics.
+- Customized the Alteryx workflows to calculate the tax amount leading to the successful completion of financial calculations resulting in a 35% increase in efficiency. Recipient of the prestigious 'Best Employee' award during the EY GDS TAX - Program 2022, recognizing exceptional contributions to financial-related projects.
 
-Internship, Data Engineering											September 2021 – May 2022
-
-Customized the Alteryx workflows to calculate the tax amount, leading to the successful completion of financial calculations and resulting in a 35% increase in efficiency.
-Received the prestigious 'Best Intern' award during the EY GDS TAX-Internship Program 2022, recognizing exceptional contributions to financial-related projects.
-	
 ***Institut de Recherche en Systèmes Electroniques Embarqués (IRSEEM), Rouen, France***
 
-Internship, IoT Design, and Data Analyst									April 2019 – October 2019
+Data Analyst & IoT Design, Engineering										   April 2019 – October 2019
 
-Designed, tested, and optimized a circuit to capture, measure, and display RF energy on Arduino.
-Utilized A/B testing to analyze and evaluate RF energy data for different real-time periods, providing actionable insights.
-Implemented regression models to enhance the accuracy of RF energy measurements, resulting in improved data quality.
-
+- Led the team in designing, testing, and optimizing a circuit to capture, measure, and display RF energy using Arduino.
+- Implemented regression models to enhance RF energy measurement accuracy, resulting in improved data quality by 20%.
