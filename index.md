@@ -49,21 +49,21 @@ This project aims to bridge that gap by developing a model that estimates house 
 
 ***University of Utah, Salt Lake City, UT***
 
-Career Success Intern, Data Analyst             June 2023 – Present
+Career Success Intern, Data Analyst             
 
 - Conducted in-depth analysis of university career statistics by analyzing and designing interactive salesforce dashboards.
 - Collaborated with a diverse team of 50+ students on a multifaceted project to facilitate informed career choices and academic planning through data analysis, marketing strategy development, and graphic design.
 
 ***David Eccles School of Business, Salt Lake City, UT***
 
-Teaching Assistant												    August 2023 – December 2023
+Teaching Assistant												   
 
 - Coordinated with the professor to develop lecture materials and practice exercises (Learn R + Statistics).
 - Managed boot camps and projects, significantly boosting the efficiency and engagement of over 100 students.
 
 ***Ernst and Young (EY), Hyderabad, India***
 
-Advanced Analyst, Data Engineering						September 2021 – December 2022
+Advanced Analyst, Data Engineering						
 
 - Applied Azure Synapse Analytics & Data Factory tools to orchestrate data workflows, ensuring data integrity and accuracy.
 - Developed a comprehensive Power BI dashboard by translating complex data into actionable insights, empowering clients with real-time access to critical business metrics.
@@ -71,7 +71,7 @@ Advanced Analyst, Data Engineering						September 2021 – December 2022
 
 ***Institut de Recherche en Systèmes Electroniques Embarqués (IRSEEM), Rouen, France***
 
-Data Analyst & IoT Design, Engineering        April 2019 – October 2019
+Data Analyst & IoT Design, Engineering        
 
 - Led the team in designing, testing, and optimizing a circuit to capture, measure, and display RF energy using Arduino.
 - Implemented regression models to enhance RF energy measurement accuracy, resulting in improved data quality by 20%.
