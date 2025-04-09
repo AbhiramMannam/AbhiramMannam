@@ -1,6 +1,6 @@
 # Summary
 
-Abhiram Mannam is a skilled data and financial analyst pursuing a Master's in Business Analytics at the University of Utah. With a solid foundation in statistics, he adeptly integrates sophisticated programming and statistical techniques to extract insights from complex datasets.
+Abhiram Mannam is a skilled data and financial analyst who completed his Master's in Business Analytics at the University of Utah. With a solid foundation in statistics, he adeptly integrates sophisticated programming and statistical techniques to extract insights from complex datasets.
 
 Abhiram's expertise in financial analysis includes evaluating market trends and optimizing investment strategies. His technical skills encompass data ingestion, ETL pipeline development, and proficiency in Python, R, SQL, and various data visualization tools. His notable contributions at Ernst and Young, where he led critical data engineering projects, highlight his ability to drive impactful business decisions through data.
 
@@ -48,11 +48,19 @@ This project aims to bridge that gap by developing a model that estimates house 
 ## Work Experience
 
 ***University of Utah, Salt Lake City, UT***
+***Kinetic AI Inc.	The Woodlands, USA***
 
-Career Success Intern, Data Analyst             
+Data Analyst, Statistics and Data Science
 
-- Conducted in-depth analysis of university career statistics by analyzing and designing interactive salesforce dashboards.
-- Collaborated with a diverse team of 50+ students on a multifaceted project to facilitate informed career choices and academic planning through data analysis, marketing strategy development, and graphic design.
+-	Developed machine learning models to predict data trends, enhancing decision-making for strategic planning.
+-	Assisting in developing data collection systems and optimizing data workflows.
+-	Ensuring data privacy, integrity, and security standards are maintained.
+
+U Career Success, Data Analyst             
+
+-	Led a cross-functional team of 50+ students in a project aimed at optimizing career success strategies.
+=	Designed interactive Tableau dashboards that provided key insights into university career statistics, improving academic and career planning. Conducted stakeholder engagement and presented data-driven recommendations to leadership.
+-	Conducted data enrichment using external sources (Kaggle), improving model accuracy and business insights.
 
 ***David Eccles School of Business, Salt Lake City, UT***
 
@@ -68,6 +76,13 @@ Advanced Analyst, Data Engineering
 - Applied Azure Synapse Analytics & Data Factory tools to orchestrate data workflows, ensuring data integrity and accuracy.
 - Developed a comprehensive Power BI dashboard by translating complex data into actionable insights, empowering clients with real-time access to critical business metrics.
 - Customized the Alteryx workflows to calculate the tax amount leading to the successful completion of financial calculations resulting in a 35% increase in efficiency. Recipient of the prestigious 'Best Employee' award during the EY GDS TAX - Program 2022, recognizing exceptional contributions to financial-related projects.
+
+***Electro Circuit Systems,	Hyderabad, India***
+
+Data Analyst (PCB Testing and Design), Engineering
+
+-	Developed and implemented machine learning models to test Print Circuit Boards (PCB) for defects, designing supply chain model to optimize inventory levels, resulting in $1 million in production cost savings.
+
 
 ***Institut de Recherche en Systèmes Electroniques Embarqués (IRSEEM), Rouen, France***
 
