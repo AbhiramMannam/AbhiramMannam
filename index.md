@@ -47,7 +47,6 @@ This project aims to bridge that gap by developing a model that estimates house 
 
 ## Work Experience
 
-***University of Utah, Salt Lake City, UT***
 ***Kinetic AI Inc.	The Woodlands, USA***
 
 Data Analyst, Statistics and Data Science
@@ -55,6 +54,8 @@ Data Analyst, Statistics and Data Science
 -	Developed machine learning models to predict data trends, enhancing decision-making for strategic planning.
 -	Assisting in developing data collection systems and optimizing data workflows.
 -	Ensuring data privacy, integrity, and security standards are maintained.
+
+***University of Utah, Salt Lake City, UT***
 
 U Career Success, Data Analyst             
 
